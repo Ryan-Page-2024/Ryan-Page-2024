@@ -1,5 +1,5 @@
 <img src="Banner.png" alt="Banner" />
-**I love turning complex data into engaging stories that everyone can understand.**
+__I love turning complex data into engaging stories that everyone can understand.__
 
 - 👨🏻‍💻 Building [paging-ryan.com](https://www.paging-ryan.com)
 - 📖 Exploring stories with data science, one Page at a time
