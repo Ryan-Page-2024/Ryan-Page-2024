@@ -1,4 +1,4 @@
-<img src="RP_Banner.png" alt="RP_Banner"/> 
+<img src="RP.png" alt="RP"/> 
 Currently, I am:
 <br>👨🏻‍💻 Building [paging-ryan.com](https://www.paging-ryan.com)
 <br>🎵 Listening to country music and the calm of nature
