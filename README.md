@@ -1,5 +1,6 @@
 <img src="Banner.png" alt="Banner"/>
-I love turning complex data into engaging stories that everyone can understand. 🏡 [website](https://www.paging-ryan.com) | 💼 [linkedin](https://www.linkedin.com/in/ryanpage2020/)
+I love turning complex data into engaging stories that everyone can understand. 
+🏡 [website](https://www.paging-ryan.com) | 💼 [linkedin](https://www.linkedin.com/in/ryanpage2020/)
 
 Currently, I am:
 - 👨🏻‍💻 Building [paging-ryan.com](https://www.paging-ryan.com)
