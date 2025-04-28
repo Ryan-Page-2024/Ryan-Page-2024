@@ -2,7 +2,7 @@
 
 Currently I am:
 <br>👨🏻‍💻 Building [paging-ryan.com](https://www.paging-ryan.com)
-<br>🎵 Listening to country music and the calm of nature
+<br>🎵 Listening to country music and the calm of nature 🍃
 <br>📖 Exploring stories with data science, one page at a time
 
 Check out my:
