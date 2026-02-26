@@ -1,8 +1,8 @@
 <img src="RP.png" alt="RP"/> 
 
 Currently I am:
+<br>🕹️ Developing Games
 <br>👨🏻‍💻 Building [paging-ryan.com](https://www.paging-ryan.com)
-<br>🕹️ Developing Video Games with Friends
 <br>📖 Exploring stories with data science
 <br>🎵 Listening to country music and the calm of nature
 
