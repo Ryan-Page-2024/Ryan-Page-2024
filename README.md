@@ -2,7 +2,7 @@
 
 Currently I am:
 <br>👨🏻‍💻 Building [paging-ryan.com](https://www.paging-ryan.com)
-<br>🎮 Developing Video Games
+<br>🕹️ Developing Video Games with Friends
 <br>📖 Exploring stories with data science
 <br>🎵 Listening to country music and the calm of nature
 
